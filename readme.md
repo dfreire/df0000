@@ -5,4 +5,5 @@
 - [df0005](https://github.com/dfreire/df0005): spike on translation sheets
 - [df0006](https://github.com/dfreire/df0006): spike on elm and horizon
 - [df0007](https://github.com/dfreire/df0007): spike on elm and horizon based on elm todomvc
+- [df0008](https://github.com/dfreire/df0008): elm succinctly
 
