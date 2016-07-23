@@ -6,4 +6,4 @@
 - [df0006](https://github.com/dfreire/df0006): spike on elm and horizon
 - [df0007](https://github.com/dfreire/df0007): spike on elm and horizon based on elm todomvc
 - [df0008](https://github.com/dfreire/df0008): elm succinctly
-
+- [df0008](https://github.com/dfreire/df0009): 99 elm problems
